@@ -22,7 +22,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenResume, onCont
         className="absolute top-[4%] left-[1%] sm:left-[2%] md:left-[4%] pointer-events-none z-0"
       >
         <img
-          src="spiderwoman.png"
+          src="/spiderwoman.png"
           alt="Decorative 3D Element"
           className="w-[120px] sm:w-[160px] md:w-[210px] h-auto object-contain select-none opacity-80"
         />
@@ -37,7 +37,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenResume, onCont
         className="absolute bottom-[8%] left-[3%] sm:left-[6%] md:left-[10%] pointer-events-none z-0"
       >
         <img
-          src="panda.png"
+          src="/panda.png"
           alt="Decorative 3D Element"
           className="w-[100px] sm:w-[140px] md:w-[180px] h-auto object-contain select-none opacity-80"
         />
@@ -52,7 +52,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenResume, onCont
         className="absolute top-[4%] right-[1%] sm:right-[2%] md:right-[4%] pointer-events-none z-0"
       >
         <img
-          src="spiderman.png"
+          src="/spiderman.png"
           alt="Decorative 3D Element"
           className="w-[120px] sm:w-[160px] md:w-[210px] h-auto object-contain select-none opacity-80"
         />
@@ -67,7 +67,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenResume, onCont
         className="absolute bottom-[8%] right-[3%] sm:right-[6%] md:right-[10%] pointer-events-none z-0"
       >
         <img
-          src="cat.png"
+          src="/cat.png"
           alt="Decorative 3D Element"
           className="w-[130px] sm:w-[170px] md:w-[220px] h-auto object-contain select-none opacity-80"
         />
