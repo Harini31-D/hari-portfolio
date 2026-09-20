@@ -2,9 +2,9 @@ import React, { useEffect, useRef, useState } from 'react';
 
 const row1Images = [
   "https://i.pinimg.com/736x/b8/a0/0b/b8a00b2b9e827a7e541d949ad605087b.jpg",
-  "https://i.pinimg.com/736x/b5/c7/5d/b5c75d8614d3541d3acb703c70a49ad3.jpg",
-  "https://i.pinimg.com/1200x/a2/08/4c/a2084c52a62bfe7542ac4fcd68e19590.jpg",
-  "https://i.pinimg.com/736x/2f/78/96/2f7896130db04c53b082ff219a51c509.jpg",
+  "https://i.pinimg.com/1200x/a1/55/33/a15533baddb8c7e43b2c61be613fe536.jpg",
+  "https://i.pinimg.com/736x/ca/b8/f4/cab8f48669ba283aa084de3bca64542e.jpg",
+  "https://i.pinimg.com/736x/ea/0d/85/ea0d857a728002af40b932261b10906b.jpg",
   "https://i.pinimg.com/736x/87/29/c4/8729c4c9ffd91a9bb20c6cd3cb56671e.jpg",
   "https://motionsites.ai/assets/hero-transform-data-preview-Cx5OU29N.gif",
   "https://motionsites.ai/assets/hero-vitara-preview-Cjz2QYyU.gif",
